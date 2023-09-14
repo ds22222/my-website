@@ -10,6 +10,8 @@ function hundleMenu() {
     actions.classList.toggle("is-active");
 }
 
+
+
 window.onload = function () {
     var loader = document.querySelector(".loader");
     loader.style.display = "none"; // إخفاء المؤشر بمجرد اكتمال التحميل
