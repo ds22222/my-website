@@ -567,7 +567,7 @@ footer .content-footer p {
     html {
         font-size: 13px;
     }
-
+    
     .container-img {
         display: none;
     }
@@ -632,7 +632,6 @@ footer .content-footer p {
 
     .content {
         display: block;
-
     }
 
     .social {
@@ -713,6 +712,7 @@ footer .content-footer p {
     html {
         font-size: 13px;
     }
+    
 
     .container-img {
         display: none;
